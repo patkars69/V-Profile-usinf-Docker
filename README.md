@@ -8,8 +8,9 @@ The feaures of using and doing the setup locally is - The whole procedure will b
 b. Publically using the Docker service to create and upload the provisioned Docker images and post them on Docker hub so that others can also use and utilise the code.
 
 All the services being used in the VMs are -<br>
-NGINX - Used as a front end server/web server also can be used as a Load Balancer.<br>
-Tocat Apache - Application server used to host Java Web Applications<br>
-MySQL - Used as a SQl Database server.<br>
-Rabbit MQ - Used as a message broker.<br>
-Memcached - Used as in memory key value storage for arbitrary data (strings, objects) from results of database calls.
+<ul>
+<li>NGINX - Used as a front end server/web server also can be used as a Load Balancer.<br>
+<li>Tomcat Apache - Application server used to host Java Web Applications<br>
+<li>MySQL - Used as a SQl Database server.<br>
+<li>Rabbit MQ - Used as a message broker.<br>
+<li>Memcached - Used as in memory key value storage for arbitrary data (strings, objects) from results of database calls. </li>
