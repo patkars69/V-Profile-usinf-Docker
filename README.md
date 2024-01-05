@@ -1,6 +1,6 @@
 # **V-Profile-using-Docker**
-Hosted a web application using multiple services over multiple VMs by the help of Bash scripting and Docker.
-Created a whole pipeline of Deployment of an application containing data in different VMs having multiple services (NGINX, Tockat Apache, MySQL, Memcached & Rabbit MQ) by both Manual and Automated Provisioning using the Docker.
+Hosted a web application using multiple services over multiple VMs with the help of Bash scripting and Docker.
+Created a pipeline of Deployment of an application containing data in different VMs having multiple services (NGINX, Tomcat Apache, MySQL, Memcached & Rabbit MQ) by both Manual and Automated Provisioning using the Docker.
 
 Solution for this is been done locally and publically in both ways.
 a. Locally we will create multiple VMs manually using Vagrant and provision them using the commands.
