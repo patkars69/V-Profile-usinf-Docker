@@ -7,7 +7,7 @@ a. Locally we will create multiple VMs manually using Vagrant and provision them
 The feaures of using and doing the setup locally is - The whole procedure will be automated, it is repeatable, Infrastructure as a Code (IAAC) is utilised, Research and Development (R&D) can be done in our own machine.<br>
 b. Publically using the Docker service to create and upload the provisioned Docker images and post them on Docker hub so that others can also use and utilise the code.
 
-All the services being used in the VMs are -<br>
+<e>All the services being used in the VMs are</e> -<br>
 <ul>
 <li>NGINX - Used as a front end server/web server also can be used as a Load Balancer.<br>
 <li>Tomcat Apache - Application server used to host Java Web Applications<br>
